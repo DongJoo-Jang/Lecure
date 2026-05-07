@@ -1,0 +1,4 @@
+2026-05-07
+ASP.NET Core Identity(.NET7 부터 안정화)
+Authentiatiom, Authorization 제공
+회원관련 DB테이블, 웹페이지 제공
