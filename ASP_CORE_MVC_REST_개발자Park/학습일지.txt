@@ -2,3 +2,16 @@
 3. 2프로젝트 생성,Controller(MVC)
 ASP.NET Core 비어있음으로 시작
 Program.cs 에서 기본라우팅 설정
+
+2026-05-10 
+5.4)Controller, View
+Request.Query["키이름"] 으로 액션매서드에 파라미터 선언안하고 가져오기 가능
+
+6.5)Razore View Engine
+@단일 C#구문
+@{
+멀티C#구문
+}
+@*주석 *@
+
+@: 레이저 구문안에서 문자그대로 얻기
