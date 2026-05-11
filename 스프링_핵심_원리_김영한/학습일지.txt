@@ -15,3 +15,11 @@
 12. 회원 도메인 개발
 
 자동 완성: Command + Shift + Enter 시 ;까지 붙여짐
+
+2026-05-11
+13.회원 도매인 실행과 테스트
+인텔리제이 뒤로 이동 , 앞으로 이동 Command + [ , ]
+
+실행 : control + R, 선택해서 실행 :  control + option + R
+
+Unit @Test , given(객체선언) when(로직) then(org.assertj.core.api.Assert)
